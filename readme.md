@@ -1,5 +1,5 @@
 # 2017 Spring Database Design CS6360
-Instructor: **Mr. Chris Davis**
+Instructor: **Dr. Chris Davis**
 
 This course focuses on the database software design.  
 Subjects include database system architecture and models, relational and object-oriented databases, database system implementation, query processing and optimization, etc.
