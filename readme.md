@@ -29,7 +29,7 @@ The project is to implement a Library Management System, we should design and cr
 
 Detailed description is in `readme/Description.pdf`
 
-![Assignment3 Snapshot](library.png)
+![Project1 Snapshot](library.png)
 
 
 ## How to run the code
