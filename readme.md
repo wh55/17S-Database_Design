@@ -15,9 +15,9 @@ This folder contains the source code for the first project of the course.
    - `librarydb.sql`: ready-to-import database containing 25000 records of books and 1000 records of borrowers
    - `Description.pdf`: the structure of the system, the functionalities of every php page.
 
-- `books.csv` and `borrowers.csv` are the origin data given with the project requirement.
-
 - `SQL Library Project Spring 2017.pdf` is the requirement for the project.
+
+- `books.csv` and `borrowers.csv` are the origin data given with the project requirement.
 
 - `library.png` is the snapshots of the user interface.
 
