@@ -1,0 +1,168 @@
+body {
+    background-color: #f6f5f3;
+    color: #3d3d3f;
+    font-family: Times;
+    font-size: 16px;
+}
+
+h1 {
+    margin: 70px 10px  30px  20px;
+}
+
+nav{
+   font-size: 80%;
+   margin-top: 150px;
+   color: #3d3d3f;
+}
+
+ul { 
+    list-style-type:none;
+}
+
+li{
+   padding: 0.5em 0;
+}
+
+iframe {
+	border:none;
+	height: 650px;
+}
+
+#navi{
+   float:left;
+   width: 30%;
+}
+
+#body{
+    float:right;
+    width: 70%;
+}
+
+form{
+     margin: 10px 20px;
+}
+
+label{
+     font-weight: bold;
+}
+
+input{
+     margin-bottom: 20px;
+     padding-top: 5px;
+     background-color: #f9f8fd;
+     color: #7dce94;
+     font-size: 100%;
+     font-family: Times;
+}
+
+input[type=text] {
+    -webkit-transition: width 1s ease-in-out;
+    transition: width 1s ease-in-out;
+    color: #7dce94;
+    
+}
+
+input[type=text]:focus {
+    width: 70%;
+    border: 2px solid #7dce94;
+}
+
+button {
+    font-size: 80%;
+    cursor: pointer;
+    background-color: #f6f5f3;
+}
+
+button:hover {
+    background-color: #7dce94;
+    color: white;
+    
+}
+
+button.disable{
+	color:#eee;
+	background-color:#f6f5f3;
+	cursor:default;
+
+}
+
+.title{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.content{
+    margin-left: 50px;
+    padding-bottom: 3px;
+}
+
+#welcome{
+    margin-top: 70px;
+}
+
+a:link, a:visited {
+    color:#3d3d3f;
+}
+
+a:active, a:hover {
+    color: #7dce94;
+}
+
+.g{
+    font-weight: bold;
+}
+
+caption{
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 20px 0px;
+}
+
+table{
+    font-size: 90%;
+    border-collapse: collapse;
+    margin-left:20px; 
+    margin-right:40px;
+    margin-bottom: 60px;
+}
+
+th, td {
+	border-bottom: 1px solid #ddd;
+    padding: 6px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+	background: #e7e7e7;
+}
+
+#footer{
+	font-family:Tahoma;
+	font-size: 65%;
+   padding-bottom:2px;
+   margin: 250px 100px 10px 20px;
+   background-color: #eee;
+}
+
+.g2{
+    padding-top: 20px;
+    color: #7dce94;
+    margin-left: 22px;
+}
+
+.g3{
+    margin-left: 22px;
+    margin-bottom: 40px;
+}
+
+.g4{
+	margin-left: 22px;
+	margin-top: 40px;
+}
+
+.g5{
+   font-size: 80%;
+   color: #7dce94;
+   padding-left: 10px;
+}
